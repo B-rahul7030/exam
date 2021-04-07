@@ -35,4 +35,4 @@ B. JAVA is standard
 ![website of vignan] (http://www.vignaniit.edu.in/)
 
 ## How to insert video link
-[click here to watch video] (https://www.youtube.com/watch?v=ruWIZcL5T6I)                                                                                                                                    
+![click here to watch video] (https://www.youtube.com/watch?v=ruWIZcL5T6I)                                                                                                                                    
