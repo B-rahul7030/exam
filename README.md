@@ -36,3 +36,8 @@ B. JAVA is standard
 
 ## How to insert video link
 ![click here to watch video] (https://www.youtube.com/watch?v=ruWIZcL5T6I)                                                                                                                                    
+# How to insert a table
+## My Profile
+
+|NAME|EMAIL|MOBILE|PROFESSION|LOCATION|
+|-------|--------|---------|---------|---------|
