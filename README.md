@@ -22,3 +22,5 @@
 ## ordered list
 1. this id about first line
 2. this is about second line
+A. C is basic programming 
+B. JAVA is standard
