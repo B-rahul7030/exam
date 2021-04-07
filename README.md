@@ -11,10 +11,11 @@
 - git hub commands
 - git is a version controal tool
   - git is distributed project management system 
-  **GIT HUB**
+  - GIT HUB 
 # how to set bold and italic font settings
 *CSE STUENTS*
 
 **APSSDC**
 
 ***GIT HUB WORKSHOP***
+ **GIT HUB**
