@@ -9,3 +9,5 @@
 
 # unordered list
 - git hub commands
+- git is a version controal tool
+  - git is distributed project management system  
