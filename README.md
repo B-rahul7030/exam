@@ -27,9 +27,12 @@ A. C is basic programming
 
 B. JAVA is standard
 
-#How to insert image
+# How to insert image
 
 ![image of JNTUK] (https://images.app.goo.gl/XjCFxSDZ9kP2JCQS8)
 
 ## How to insert website link
 ![website of vignan] (http://www.vignaniit.edu.in/)
+
+## How to insert video link
+[click here to watch video] (https://www.youtube.com/watch?v=ruWIZcL5T6I)                                                                                                                                    
