@@ -41,3 +41,4 @@ B. JAVA is standard
 
 |NAME|EMAIL|MOBILE|PROFESSION|LOCATION|
 |-------|--------|---------|---------|---------|
+|RAHUL|baratamrahul2001@gmail.com|9030327031|STUDYING|DHUVADA
