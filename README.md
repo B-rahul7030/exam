@@ -28,4 +28,4 @@ A. C is basic programming
 B. JAVA is standard
 
 #How to insert image
-![image of JNTUK] ()
+![image of JNTUK] (https://images.app.goo.gl/XjCFxSDZ9kP2JCQS8)
