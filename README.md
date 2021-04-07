@@ -26,3 +26,6 @@
 A. C is basic programming 
 
 B. JAVA is standard
+
+#How to insert image
+![image of JNTUK] ()
